@@ -13,6 +13,8 @@ https://gibberblot.github.io/rl-notes/intro/foreword.html
 ## Blogs:
 https://spinningup.openai.com/en/latest/spinningup/rl_intro3.html
 
+https://cameronrwolfe.substack.com/p/basics-of-reinforcement-learning
+
 https://karpathy.github.io/2016/05/31/rl/
 
 ## <span style='color:blue'>When & Where</span>
