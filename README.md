@@ -15,10 +15,19 @@ https://spinningup.openai.com/en/latest/spinningup/rl_intro3.html
 
 https://karpathy.github.io/2016/05/31/rl/
 
-## <span style='color:blue'>WHERE AND WHEN</span>
+## <span style='color:blue'>When & Where</span>
 
 We will meet on Wednesday's at 9 am in my office
 
+## Who speaks when:
+Here is the list of the speakers and weeks in which  they will present:
 
+Week 3:
 
+Week 5:
 
+Week 7:
+
+Week 9:
+
+Week 10:
