@@ -15,7 +15,7 @@ https://spinningup.openai.com/en/latest/spinningup/rl_intro3.html
 
 https://karpathy.github.io/2016/05/31/rl/
 
-## <span style='color:blue'>WHERE AND WHEN__</span>
+## <span style='color:blue'>WHERE AND WHEN</span>
 
 We will meet on Wednesday's at 9 am in my office
 
