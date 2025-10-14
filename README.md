@@ -14,3 +14,11 @@ https://gibberblot.github.io/rl-notes/intro/foreword.html
 https://spinningup.openai.com/en/latest/spinningup/rl_intro3.html
 
 https://karpathy.github.io/2016/05/31/rl/
+
+## <span style='color:blue'>WHERE AND WHEN__</span>
+
+We will meet on Wednesday's at 9 am in my office
+
+
+
+
