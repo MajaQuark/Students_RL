@@ -11,6 +11,9 @@ Barto,Sutton:http://incompleteideas.net/book/ebook/node1.html
 https://gibberblot.github.io/rl-notes/intro/foreword.html
 
 ## Blogs:
+
+https://www.youtube.com/watch?v=EWvNQjAaOHw
+
 https://spinningup.openai.com/en/latest/spinningup/rl_intro3.html
 
 https://cameronrwolfe.substack.com/p/basics-of-reinforcement-learning
